@@ -6,6 +6,7 @@ authors = ["Marvin-chengmin <marvin.cmin@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+numpy = "^1.18.1"
 
 [tool.poetry.dev-dependencies]
 
