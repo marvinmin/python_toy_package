@@ -9,7 +9,7 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 ### Installation:
 
 ```
-pip install -i https://test.pypi.org/simple/ python_toy_package
+pip install -i https://test.pypi.org/simple/ python_toy_package 
 ```
 
 ### Features
